@@ -1,0 +1,16 @@
+{
+  "name": "lavagroove",
+  "version": "1.0.0",
+  "description": "Music-Bot for Discord using LavaLink.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Obskurath",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "kazagumo": "^3.2.1"
+  }
+}
